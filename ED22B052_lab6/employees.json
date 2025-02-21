@@ -1,0 +1,59 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice Johnson",
+            "age": 30,
+            "department": "Engineering",
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "Data Science"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Bob Smith",
+            "age": 25,
+            "department": "Marketing",
+            "skills": [
+                "SEO",
+                "Content Writing",
+                "Analytics"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Charlie Brown",
+            "age": 28,
+            "department": "Human Resources",
+            "skills": [
+                "Recruitment",
+                "Training",
+                "Communication"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Vishal Singh",
+            "age": 32,
+            "department": "Finance",
+            "skills": [
+                "Accounting",
+                "Financial Analysis",
+                "Budgeting"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Vishal Singh",
+            "age": 32,
+            "department": "Finance",
+            "skills": [
+                "Accounting",
+                "Financial Analysis",
+                "Stoack Market"
+            ]
+        }
+    ]
+}
