@@ -1,1 +1,1 @@
-Write a Python program that reads a text file (sample.txt) and counts the number of words in it.
+Write a Python program that reads a text file (sample.txt) and counts the number of words in it. Thjis is the bsic read input and write.

@@ -54,6 +54,17 @@
                 "Financial Analysis",
                 "Stoack Market"
             ]
+        },
+        {
+            "id": 104,
+            "name": "Karan Singh",
+            "age": 32,
+            "department": "Finance",
+            "skills": [
+                "Accounting",
+                "Financial Analysis",
+                "Stoack Market"
+            ]
         }
     ]
 }
